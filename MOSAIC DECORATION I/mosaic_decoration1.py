@@ -1,0 +1,1 @@
+print("Mosaic Decoration Module")
